@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trabajo de Modificar Eliminar y Modificar con DB SQLite</string>
+    <string name="action_settings">Settings</string>
+</resources>
